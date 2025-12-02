@@ -1,0 +1,30 @@
+I:\Project\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.deps.json
+I:\Project\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.dll
+I:\Project\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.pdb
+I:\Project\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Domain.dll
+I:\Project\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Domain.pdb
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.csproj.AssemblyReference.cache
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.AssemblyInfoInputs.cache
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.AssemblyInfo.cs
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.csproj.CoreCompileInputs.cache
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee.DCED9AEA.Up2Date
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.dll
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\refint\Employee_Management.Application.dll
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.pdb
+I:\Project\Employee_Management.Application\obj\Debug\net8.0\ref\Employee_Management.Application.dll
+G:\Employee Management\Employee-Management\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.deps.json
+G:\Employee Management\Employee-Management\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.dll
+G:\Employee Management\Employee-Management\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Application.pdb
+G:\Employee Management\Employee-Management\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Domain.dll
+G:\Employee Management\Employee-Management\Employee_Management.Application\bin\Debug\net8.0\Employee_Management.Domain.pdb
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.csproj.AssemblyReference.cache
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.AssemblyInfoInputs.cache
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.AssemblyInfo.cs
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.csproj.CoreCompileInputs.cache
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee.DCED9AEA.Up2Date
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.dll
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\refint\Employee_Management.Application.dll
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\Employee_Management.Application.pdb
+G:\Employee Management\Employee-Management\Employee_Management.Application\obj\Debug\net8.0\ref\Employee_Management.Application.dll

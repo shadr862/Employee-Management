@@ -1,0 +1,358 @@
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\appsettings.Development.json
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\appsettings.json
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.staticwebassets.endpoints.json
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.exe
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.deps.json
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.runtimeconfig.json
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.pdb
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.csproj.AssemblyReference.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.AssemblyInfoInputs.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.AssemblyInfo.cs
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.csproj.CoreCompileInputs.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.MvcApplicationPartsAssemblyInfo.cs
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.MvcApplicationPartsAssemblyInfo.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\scopedcss\bundle\Employee Management WebApi.styles.css
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.development.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee.C44F9A55.Up2Date
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.dll
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\refint\Employee Management WebApi.dll
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.pdb
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.genruntimeconfig.cache
+I:\Project\Employee Management WebApi\obj\Debug\net8.0\ref\Employee Management WebApi.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\AutoMapper.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Azure.Core.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Azure.Identity.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.ClientModel.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Text.Json.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Application.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Domain.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Infrastructure.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Application.pdb
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Infrastructure.pdb
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Domain.pdb
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Humanizer.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.CodeDom.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+I:\Project\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\appsettings.Development.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\appsettings.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.staticwebassets.endpoints.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.exe
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.deps.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.runtimeconfig.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee Management WebApi.pdb
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\AutoMapper.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Azure.Core.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Azure.Identity.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Humanizer.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Mono.TextTemplating.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.ClientModel.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.CodeDom.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Convention.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Hosting.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Composition.Runtime.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Composition.TypedParts.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Drawing.Common.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Formats.Asn1.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.IO.Pipelines.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Memory.Data.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Runtime.Caching.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Security.Permissions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Text.Json.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\System.Windows.Extensions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Application.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Domain.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Infrastructure.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Application.pdb
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Infrastructure.pdb
+G:\Employee Management\Employee-Management\Employee Management WebApi\bin\Debug\net8.0\Employee_Management.Domain.pdb
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.csproj.AssemblyReference.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\rpswa.dswa.cache.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.GeneratedMSBuildEditorConfig.editorconfig
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.AssemblyInfoInputs.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.AssemblyInfo.cs
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.csproj.CoreCompileInputs.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\rjimswa.dswa.cache.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\scopedcss\bundle\Employee Management WebApi.styles.css
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.json.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.development.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee.C44F9A55.Up2Date
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\refint\Employee Management WebApi.dll
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.pdb
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\Employee Management WebApi.genruntimeconfig.cache
+G:\Employee Management\Employee-Management\Employee Management WebApi\obj\Debug\net8.0\ref\Employee Management WebApi.dll

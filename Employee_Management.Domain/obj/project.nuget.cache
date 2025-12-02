@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CRf9urAbG/A=",
+  "success": true,
+  "projectFilePath": "G:\\Employee Management\\Employee-Management\\Employee_Management.Domain\\Employee_Management.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
