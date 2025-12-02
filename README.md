@@ -8,7 +8,7 @@ This project is an **enhanced Employee Management Dashboard** built with **Angul
 
 ### 🏠 Dashboard 
 
-![Dashboard](your-dashboard-image-link-here)
+![Dashboard](https://github.com/shadr862/Employee-Management/blob/main/Images/Dashboard.PNG)
 
 ### 👥 Employee Management
 
