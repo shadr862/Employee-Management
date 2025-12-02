@@ -34,7 +34,7 @@ This project is an **enhanced Employee Management Dashboard** built with **Angul
 * Sorting on Name, Department, Joining Date
 * Sort state persists in localStorage
 * AntD Table pagination with items-per-page selector
-  ![Sorting](https://github.com/shadr862/Employee-Management/blob/main/Images/Sorting%20and%20Filtering.PNGe)
+  ![Sorting](https://github.com/shadr862/Employee-Management/blob/main/Images/Sorting%20and%20Filtering.PNG)
   ![Pagination](https://github.com/shadr862/Employee-Management/blob/main/Images/pagination.PNG)
 
 ### 📱 Responsive Layout
